@@ -1,0 +1,28 @@
+{
+  "name": "tera-toolbox",
+  "version": "1.0.0",
+  "description": "Comprehensive modding framework for TERA.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tera-toolbox/tera-toolbox.git"
+  },
+  "author": "Caali",
+  "contributors": [
+    "Pinkie Pie",
+    "meishu"
+  ],
+  "engines": {
+    "node": ">=11.4.0"
+  },
+  "bugs": {
+    "url": "https://github.com/tera-toolbox/tera-toolbox/issues"
+  },
+  "homepage": "https://github.com/tera-toolbox/tera-toolbox#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5",
+    "process-list": "^1.2.3",
+    "tera-data": "github:tera-toolbox/tera-data",
+    "tera-network-proxy": "github:tera-toolbox/tera-network-proxy"
+  }
+}
