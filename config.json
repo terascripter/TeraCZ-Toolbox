@@ -1,0 +1,13 @@
+{
+    "branch": "master",
+    "devmode": false,
+    "gui": {
+        "autostart": true,
+        "logtimes": true,
+        "theme": "black"
+    },
+    "noselfupdate": true,
+    "noslstags": false,
+    "noupdate": true,
+    "updatelog": false
+}

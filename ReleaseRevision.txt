@@ -1,0 +1,10 @@
+SrcRegVer: 351584
+ReleaseName: Live-82.05 EME #17 (Gold)
+Version: Live-82.05 EME #17 (Gold)
+ReleaseDate: 2019-07-05 오후 3:07:45
+ShareRevision: 350027
+ClientRevision: 351096
+ServerRevision: 351584
+ReleaseDataRevision: 424626
+WebAppRevision: 351584
+TeraReleaseName: Live-82.05 EME #17 (Gold)

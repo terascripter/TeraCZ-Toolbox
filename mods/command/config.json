@@ -1,0 +1,9 @@
+{
+    "version": 1,
+    "data": {
+        "login_message": true,
+        "private_channel_name": "Proxy",
+        "public_enable": true,
+        "hide_module_names": false
+    }
+}
